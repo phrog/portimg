@@ -1,0 +1,20 @@
+File structure for portimg:
+
+/           - portimg's root
+/admin      - All of portimg's admin functionality goes here.
+/classes    - Contains the php files that hold object classes.
+/css        - Holds all of the site level style sheets used in the site
+/images     - Site level images are here ( portimg logo... )
+/lib        - any helper files go here
+/main       - Homepage for the site is located here
+/mike       - An example user
+    /gallery1   - A gallery belonging to mike.
+
+
+
+
+TODO:
+
+* Add setDesc($desc) to gallery and post
+* Implement notes in gallery
+* write a writer and reader class (abstract and concrete)

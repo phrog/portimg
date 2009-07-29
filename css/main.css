@@ -1,0 +1,27 @@
+body
+{
+    background-color: black;
+    color: white;
+}
+
+div#main
+{
+    float: right;
+    background-color: #eeeeee;
+    margin-left: 10%;
+}	
+
+#links
+{
+    margin-left: 5%;
+    padding: 3px;
+    float: left;
+    border: solid #eeeeee 2px;
+}
+
+#link
+{
+    display: block;
+    font-size: large;
+    color: #eeeeee;
+}
